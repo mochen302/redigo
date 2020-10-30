@@ -24,7 +24,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gomodule/redigo/redis"
+	"github.com/mochen302/redigo/redis"
 )
 
 const (

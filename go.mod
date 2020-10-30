@@ -1,5 +1,5 @@
-module github.com/gomodule/redigo
+module github.com/mochen302/redigo
 
-go 1.14
+go 1.12
 
 require github.com/stretchr/testify v1.5.1
